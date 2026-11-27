@@ -7,3 +7,8 @@ a=4
 b=2
 sub=a-b
 print(sub)
+
+a=4
+b=2
+mult=a*b
+print(mult)
